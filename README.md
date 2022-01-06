@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning more cyber-security, mostly web app security :)
 - 📚 I want to learn more about digital forensics, reverse engineering, mobile app security and exploit development.
 - 📫 How to reach me: ekinsiarb@protonmail.com
-- 🐱‍💻 I've been doing bug bounty for 8 months: hackerone.com/shiar
+- 🐱‍💻 I've been doing bug bounty since 2021: hackerone.com/shiar
 - ✨ I usually post my achievements on twitter: twitter.com/EkinBayer4
